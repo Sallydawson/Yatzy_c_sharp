@@ -1,0 +1,6 @@
+/Users/sallydawson 1/Projects/Yatzy_spil/Yatzy_spil/bin/Debug/Yatzy_spil.exe
+/Users/sallydawson 1/Projects/Yatzy_spil/Yatzy_spil/bin/Debug/Yatzy_spil.pdb
+/Users/sallydawson 1/Projects/Yatzy_spil/Yatzy_spil/obj/x86/Debug/Yatzy_spil.csprojAssemblyReference.cache
+/Users/sallydawson 1/Projects/Yatzy_spil/Yatzy_spil/obj/x86/Debug/Yatzy_spil.csproj.CoreCompileInputs.cache
+/Users/sallydawson 1/Projects/Yatzy_spil/Yatzy_spil/obj/x86/Debug/Yatzy_spil.exe
+/Users/sallydawson 1/Projects/Yatzy_spil/Yatzy_spil/obj/x86/Debug/Yatzy_spil.pdb

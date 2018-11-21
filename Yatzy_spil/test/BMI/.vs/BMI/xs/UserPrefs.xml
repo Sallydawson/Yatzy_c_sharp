@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{89DE590D-D81F-4CA6-A934-FC6CAB19BCE6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMI/MainWindow.cs">
+    <Files>
+      <File FileName="BMI/Program.cs" Line="13" Column="1" />
+      <File FileName="BMI/MainWindow.cs" Line="21" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sallydawson 1/Projects/BMI/BMI/MainWindow.cs" relfile="BMI/MainWindow.cs" line="21" column="29" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BMI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

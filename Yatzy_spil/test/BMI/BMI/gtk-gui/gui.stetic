@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+  </configuration>
+  <import>
+    <widget-library name="glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <widget-library name="../bin/Debug/BMI.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="MainWindow" design-size="606 317">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">MainWindow</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <signal name="DeleteEvent" handler="OnDeleteEvent" />
+    <child>
+      <widget class="Gtk.Alignment" id="alignment1">
+        <property name="MemberName" />
+        <child>
+          <widget class="Gtk.Fixed" id="fixed5">
+            <property name="MemberName" />
+            <property name="HasWindow">False</property>
+            <child>
+              <widget class="Gtk.Entry" id="entry_hoejde">
+                <property name="MemberName">entry_hoejde</property>
+                <property name="CanFocus">True</property>
+                <property name="IsEditable">True</property>
+              </widget>
+              <packing>
+                <property name="X">230</property>
+                <property name="Y">91</property>
+              </packing>
+            </child>
+            <child>
+              <widget class="Gtk.Label" id="Højde">
+                <property name="MemberName" />
+                <property name="LabelProp" translatable="yes">Højde</property>
+              </widget>
+              <packing>
+                <property name="X">180</property>
+                <property name="Y">93</property>
+              </packing>
+            </child>
+            <child>
+              <widget class="Gtk.Button" id="button3">
+                <property name="MemberName" />
+                <property name="CanFocus">True</property>
+                <property name="Type">TextOnly</property>
+                <property name="Label" translatable="yes">Udregn BMI</property>
+                <property name="UseUnderline">True</property>
+                <signal name="Clicked" handler="on_click" after="yes" />
+              </widget>
+              <packing>
+                <property name="X">230</property>
+                <property name="Y">196</property>
+              </packing>
+            </child>
+            <child>
+              <widget class="Gtk.Entry" id="entry_vaegt">
+                <property name="MemberName">entry_vaegt</property>
+                <property name="CanFocus">True</property>
+                <property name="IsEditable">True</property>
+              </widget>
+              <packing>
+                <property name="X">230</property>
+                <property name="Y">139</property>
+              </packing>
+            </child>
+            <child>
+              <widget class="Gtk.Label" id="label2">
+                <property name="MemberName" />
+                <property name="LabelProp" translatable="yes">Vægt</property>
+              </widget>
+              <packing>
+                <property name="X">180</property>
+                <property name="Y">142</property>
+              </packing>
+            </child>
+            <child>
+              <widget class="Gtk.Label" id="label4">
+                <property name="MemberName" />
+                <property name="LabelProp" translatable="yes">KG</property>
+              </widget>
+              <packing>
+                <property name="X">400</property>
+                <property name="Y">142</property>
+              </packing>
+            </child>
+            <child>
+              <widget class="Gtk.Label" id="label3">
+                <property name="MemberName" />
+                <property name="LabelProp" translatable="yes">CM</property>
+              </widget>
+              <packing>
+                <property name="X">400</property>
+                <property name="Y">93</property>
+              </packing>
+            </child>
+            <child>
+              <widget class="Gtk.Label" id="label5">
+                <property name="MemberName" />
+                <property name="LabelProp" translatable="yes">Din BMI er =</property>
+              </widget>
+              <packing>
+                <property name="X">180</property>
+                <property name="Y">252</property>
+              </packing>
+            </child>
+            <child>
+              <widget class="Gtk.Entry" id="entry12">
+                <property name="MemberName" />
+                <property name="WidthRequest">82</property>
+                <property name="CanFocus">True</property>
+                <property name="IsEditable">False</property>
+              </widget>
+              <packing>
+                <property name="X">230</property>
+                <property name="Y">273</property>
+              </packing>
+            </child>
+          </widget>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</stetic-interface>

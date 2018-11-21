@@ -1,0 +1,6 @@
+/Users/sallydawson 1/Projects/BMI/BMI/obj/x86/Debug/BMI.csprojAssemblyReference.cache
+/Users/sallydawson 1/Projects/BMI/BMI/obj/x86/Debug/BMI.csproj.CoreCompileInputs.cache
+/Users/sallydawson 1/Projects/BMI/BMI/bin/Debug/BMI.exe
+/Users/sallydawson 1/Projects/BMI/BMI/bin/Debug/BMI.pdb
+/Users/sallydawson 1/Projects/BMI/BMI/obj/x86/Debug/BMI.exe
+/Users/sallydawson 1/Projects/BMI/BMI/obj/x86/Debug/BMI.pdb
