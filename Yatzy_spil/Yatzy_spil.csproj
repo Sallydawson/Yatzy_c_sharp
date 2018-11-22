@@ -63,6 +63,7 @@
     <Compile Include="Bæger.cs" />
     <Compile Include="Muligheder.cs" />
     <Compile Include="Yatzy.cs" />
+    <Compile Include="Yatzy spiller.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

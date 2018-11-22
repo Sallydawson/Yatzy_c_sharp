@@ -32,15 +32,16 @@ public partial class MainWindow : Gtk.Window
         terning5.Text = Convert.ToString(mitbaeger.terning5.Oejne);
     }
 
-    //KNAPPER
-
-    protected void OnKastTerningerClicked(object sender, EventArgs e) //vores kast terninger knappe
+    protected void OnKastTerningerClicked(object sender, EventArgs e)
     {
         mitbaeger.RystBaeger(); //her kaldes metoden frem, så det sker når man klikker på knappen
         //når programmet kører her, så er det en sekvens af objekter
 
         VisTerninger();
     }
+
+    //KNAPPER
+
 
 }
 
